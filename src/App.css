@@ -1,0 +1,41 @@
+.main {
+    margin-left: 306px;
+    font-family: 'Poppins', sans-serif;
+    padding: 30px 100px;
+    transition: 0.7s;
+}
+
+.box {
+    margin: 30px auto;
+    width: 1200px;
+    background-color: white;
+    padding: 30px; 
+    border-radius: 30px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+tr {
+    height: 50px;
+    border-bottom: 1px solid rgba(174, 174, 174, 0.247);
+}
+
+tr th {
+    color: #B5B7C0;
+    font-weight: 400;
+}
+
+td button {
+    width: 80px;
+    height: 29px;
+    outline: none;
+    background-color: #16C09861;
+    color: #00B087;
+    border: 1px solid #00B087;
+    border-radius: 4px ;
+
+}
